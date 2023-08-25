@@ -218,9 +218,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Feel free to contact me! \
-        Reach out to me with scientific opportunities and deep learning projects.
+      text: |- \ 
       # Contact (add or remove contact options as necessary)
       email: stefania.fresca@polimi.it
       phone: +39 02 2399 4628
